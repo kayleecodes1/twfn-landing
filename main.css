@@ -165,7 +165,10 @@ ul li:last-child {
     max-width: 500px;
 }
 
-.hero__image {}
+.hero__image {
+    max-width: 100%;
+    height: auto;
+}
 
 /*-------------------------------------------*/
 /* About Section
